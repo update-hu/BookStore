@@ -1,2 +1,2 @@
 # BookStore
-a trainning program
+a  project!
